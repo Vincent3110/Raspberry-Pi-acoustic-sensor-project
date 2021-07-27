@@ -1,4 +1,4 @@
-My Gihub link : https://github.com/Vyod/Raspberry-Pi-acoustic-sensor-project
+My Gihub link : https://github.com/Vincent3110/Raspberry-Pi-acoustic-sensor-project/edit/main/README.md
 
 Raspberry Pi acoustic sensor project
 
@@ -66,5 +66,5 @@ The newest version of Raspbian comes with a new version of alsa-utils (1.0.28), 
 
 7 Put earphone on. Run “aplay test.wav” to check that your recording is okay.
 
-By Vy , Do Xuan
+By Vincent Do
 vydx91@gmail.com
